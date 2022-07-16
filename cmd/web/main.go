@@ -12,7 +12,7 @@ import (
 	"github.com/sureshkumawat/bookings/pkg/render"
 )
 
-const portNumber = ":9090"
+const portNumber = ":9000"
 
 var app config.AppConfig
 var session *scs.SessionManager

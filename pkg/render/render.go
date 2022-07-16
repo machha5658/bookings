@@ -13,7 +13,7 @@ import (
 )
 
 var functions = template.FuncMap{}
-var basic_path = "/Users/Suresh Kumawat/Desktop/Coding parts/go_coding/go_course/go_hello/"
+var basic_path = "/Users/Suresh Kumawat/Desktop/Coding parts/go_coding/go_course/bookings/"
 var app *config.AppConfig
 
 //NewTemplates sets the config to new template package
